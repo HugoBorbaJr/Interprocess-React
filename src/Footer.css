@@ -1,0 +1,15 @@
+.Ftr
+{
+   padding: 0 10px;
+   height: 50px;
+   width: 100%;
+   background-color:cadetblue;
+   border-top:  2px solid black;
+   text-align: center;
+}
+
+.Ftr h3
+{
+   padding: 10px;
+   color: white;
+}

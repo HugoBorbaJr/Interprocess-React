@@ -1,0 +1,89 @@
+.Cad
+{
+   padding: 10px 10px;
+   height: 100%;
+   width: 100%;
+   text-align: center;
+   background-color: powderblue;
+}
+.Cad form
+{
+   margin: 20px auto;
+   padding: 10px;
+   width: 400px;
+   box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 20px;
+   border-radius: 10px;
+   background-color: white;
+   text-align: left;
+}
+
+.Cad form span
+{
+   margin: 0 5px;
+   display: inline-block;
+}
+
+.Cad form p
+{
+   margin: 10px ;
+}
+
+.Cad form input
+{
+   background-color:lavender;
+   border: 1px solid slategray;
+   height: 30px;
+   border-radius: 25px;
+   width: 100%;
+   padding: 0 5px;
+}
+
+.Cad form select
+{
+   background-color:lavender;
+   border: 1px solid slategray;
+   height: 30px;
+   border-radius: 25px;
+   width: 200px;
+}
+
+.Cad form input[type="checkbox"]
+{
+   width: 50px;
+   float: right;
+}
+
+.Cad form input[name="uf"]
+{
+   width: 50px;
+}
+
+.Cad form button 
+{
+   margin: 5px;
+   background-color: cadetblue;
+   padding:10px;
+   border-radius: 10px;
+   width: 110px;
+   font-size: 12pt;
+   font-weight: bold;
+   cursor: pointer;
+ }
+
+ .Cad form button:hover
+{
+   background-color:seagreen;
+}
+
+ .Bt
+ {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 10px;
+ }
+
+ .Direita
+ {
+    float:right;
+ }
+ 
